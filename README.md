@@ -5,5 +5,5 @@ Personal workspace repository.
 ## Usage
 
 ```bash
-git clone git@github.com:<username>/git.git
+git clone git@github.com:chuhe0719/git.git
 ```
